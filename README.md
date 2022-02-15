@@ -81,14 +81,14 @@ Friday July 22, 2022
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |09:02 - 09:05| **Opening address** |
-|09:05 - 09:50| **Invited Talk** Andrew Fitzgibbon (Graphcore) |
-|09:50 - 10:35|  **Panel discussion** Yoshua Bengio (Montreal University), Bernhard Schölkopf (Max-Planck), Sergio Escalera (Universitat de Barcelona) |
+|09:05 - 09:50| **Invited Talk**  |
+|09:50 - 10:35|  **Panel discussion** |
 |10:35 - 10:50| Break |
-|10:50 - 11:35| **Invited Talk** Jill-Jênn Vie (INRIA) |
+|10:50 - 11:35| **Invited Talk**  |
 |11:35 - 12:10| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
 |12:10 - 12:20| **Best extended abstract award** |
 |12:20 - 14:30| Lunch Break |
-|14:30 - 15:30| **Contributed talk** Writing support workshop, Reka Mihalka and Simon Milligan (ETH Zurich)|
+|14:30 - 15:30| **Contributed talk** Writing support workshop |
 |15:30 - 15:50| Writing support discussion and feedback |
 |15:50 - 16:00| Closing remarks |
 
@@ -101,13 +101,13 @@ Friday July 22, 2022
 # Organizers
 
 * Alice Lacan ( IBISC/LISN/CNRS Université Paris-Saclay )
-* Mélina Verger (LIP6 Sorbonne Université)
+* Mélina Verger ( LIP6 Sorbonne Université )
 
 # Advisors
 
-* Zhen Xu ( 4Paradigm )
 * Isabelle Guyon ( LISN/CNRS/INRIA Université Paris-Saclay, ChaLearn )
 * Haozhe Sun ( LISN/CNRS/INRIA Université Paris-Saclay )
+* Zhen Xu ( 4Paradigm )
 
 
 # Past editions
