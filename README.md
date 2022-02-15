@@ -29,7 +29,10 @@ This year, we initiate a call for extended abstracts with a novelty which is the
 * ii) after review and before revision (e.g style and revising materials)
 * iii) before the workshop (e.g presentations and posters help materials)
 
-<img src="imgs/materials_timeline.jpg" width="250" class="center" />
+<p align="center">
+  <img src="imgs/materials_timeline.jpg" width="250" />
+</p>
+
 
 During the workshop, an additional 1-hour writing support presentation will take place, followed by a discussion with the authors for more tailored feedback and advices on their submitted abstracts. Therefore, this consists of a writing exercise though we also highly value promising works and novelties.
 
