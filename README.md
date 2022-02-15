@@ -28,6 +28,9 @@ This year, we initiate a call for extended abstracts with a novelty which is the
 * i) before submission (e.g writing process, basic language, macro-structure materials)
 * ii) after review and before revision (e.g style and revising materials)
 * iii) before the workshop (e.g presentations and posters help materials)
+
+![](imgs/materials_timeline.jpg?raw=true =500x)
+
 During the workshop, an additional 1-hour writing support presentation will take place, followed by a discussion with the authors for more tailored feedback and advices on their submitted abstracts. Therefore, this consists of a writing exercise though we also highly value promising works and novelties.
 
 
