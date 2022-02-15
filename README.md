@@ -1,4 +1,3 @@
-# New In ML workshop at ICML 2022
 
 # Our Mission
 
