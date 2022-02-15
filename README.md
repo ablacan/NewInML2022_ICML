@@ -79,6 +79,10 @@ Paper submission deadline has been set to October 1, 2021 AoE.
 
 This will be a one-day **on site** event.
 
+<p align="center">
+  <img src="imgs/baltimore_visitusa.jpg" width="350" />
+</p>
+
 Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
 
 
@@ -129,3 +133,6 @@ Friday July 22, 2022
 Write us at: contactnewinml (at) gmail.com
 
 Follow us on Twitter: [@NewInML](https://twitter.com/NewInML)
+<p align="center">
+  <img src="imgs/twitter_logo.png" width="100" />
+</p>
