@@ -80,7 +80,7 @@ Paper submission deadline has been set to October 1, 2021 AoE.
 This will be a one-day **on site** event.
 
 <p align="center">
-  <img src="imgs/baltimore_visitusa.jpg" width="250" />
+  <img src="imgs/baltimore_visitusa.jpeg" width="250" />
 </p>
 
 Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
