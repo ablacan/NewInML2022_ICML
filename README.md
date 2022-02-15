@@ -77,7 +77,7 @@ Paper submission deadline has been set to October 1, 2021 AoE.
 
 # Program
 
-This will be a one-day **on site** event.
+This will be a one-day **on site** event in Baltimore, USA.
 
 <p align="center">
   <img src="imgs/baltimore_visitusa.jpeg" width="550" />
@@ -132,4 +132,4 @@ Friday July 22, 2022
 
 Write us at: contactnewinml (at) gmail.com
 
-Follow us on Twitter: [@NewInML](https://twitter.com/NewInML) <img src="imgs/twitter_logo.png" width="40" />
+<img src="imgs/twitter_logo.png" width="30" /> Follow us on Twitter: [@NewInML](https://twitter.com/NewInML)
