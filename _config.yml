@@ -1,0 +1,6 @@
+theme: jekyll-theme-cayman
+title: "New In ML workshop - ICML 2022"
+description: "A workshop to help young researchers share solid work and publish high-quality papers."
+
+github:
+  is_project_page: false
