@@ -1,5 +1,6 @@
+# New in ML workshop at ICML 2022
 
-## Our Mission
+# Our Mission
 
 Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
 
