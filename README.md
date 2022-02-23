@@ -91,11 +91,11 @@ Friday July 22, 2022
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
-|09:02 - 09:05| **Opening address** |
-|09:05 - 09:50| **Invited Talk**  |
-|09:50 - 10:35|  **Panel discussion** |
+|09:00 - 09:05| **Opening address** |
+|09:05 - 09:50| **Invited Talk**  How to communicate your results |
+|09:50 - 10:35| **Invited talk** Collaborations with ML researchers |
 |10:35 - 10:50| Break |
-|10:50 - 11:35| **Invited Talk**  |
+|10:50 - 11:35| **Invited Talk** Coding best practices |
 |11:35 - 12:10| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
 |12:10 - 12:20| **Best extended abstract award** |
 |12:20 - 14:30| Lunch Break |
