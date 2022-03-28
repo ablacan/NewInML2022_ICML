@@ -15,7 +15,7 @@ Our biggest goal is to help you publish papers at the next ICML conference, and 
 
 Within quota limits, the authors of the best accepted papers may be receiving the tickets to ICML 2022, to be attributed according to merit and need.
 
-# Check past editions
+# Past editions
 
 * [NeurIPS 2021](https://sunhaozhe.github.io/NewInML2021_NeurIPS/)
 * [NeurIPS 2020](https://vanyacohen.github.io/NewInML/)
@@ -68,13 +68,13 @@ Paper submission is through CMT platform: (update link)
 Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 
 
-# Important Dates
+# Important Dates (to be confirmed)
 
 Paper submission deadline has been set to May 1, 2022 AoE.
 
 * May 1, 2022 (Anywhere on Earth): Paper submission deadline
 * June 6, 2022 (Anywhere on Earth): Author notification of acceptance
-* July 22, 2022: Workshop day with best selected abstracts presentations
+* July 18, 2022: Workshop day with best selected abstracts presentations
 
 # Program
 
@@ -87,7 +87,7 @@ This will be a one-day **on site** event in Baltimore, USA.
 Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
 
 
-Friday July 22, 2022
+Friday July 18, 2022
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
@@ -120,6 +120,14 @@ Friday July 22, 2022
 * Haozhe Sun ( LISN/CNRS/INRIA Université Paris-Saclay )
 * Zhen Xu ( 4Paradigm )
 
+# Reviewers
+* Ying-Jung Deweese ( Descartes Labs )
+* Amel Sellami ( InstaDeep/ENSI )
+* Oishi Deb ( DeepMind Scholar 20/21, previously Rolls-Royce )
+* Mozhgan Saeidi ( Vector Institute )
+* Joao Neves ( Universidade de Beira Interior)
+* Bruno Degardin ( Universidade de Beira Interior)
+* João Brito ( DeepNeuronic)
 
 # Contact
 
