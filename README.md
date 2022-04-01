@@ -129,7 +129,7 @@ Friday July 18, 2022
 * Bruno Degardin ( Universidade de Beira Interior)
 * João Brito ( DeepNeuronic)
 
-# Contact
+# Contact 
 
 Write us at: contactnewinml (at) gmail.com
 
