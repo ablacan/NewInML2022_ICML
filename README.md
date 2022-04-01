@@ -68,7 +68,7 @@ Paper submission is through CMT platform: (update link)
 Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 
 
-# Important Dates (to be confirmed)
+# Important Dates
 
 Paper submission deadline has been set to May 15, 2022 AoE.
 
