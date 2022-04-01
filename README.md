@@ -125,11 +125,11 @@ Friday July 18, 2022
 * Amel Sellami ( InstaDeep/ENSI )
 * Oishi Deb ( DeepMind Scholar 20/21, previously Rolls-Royce )
 * Mozhgan Saeidi ( Vector Institute )
-* Joao Neves ( Universidade de Beira Interior)
-* Bruno Degardin ( Universidade de Beira Interior)
-* João Brito ( DeepNeuronic)
+* Joao Neves ( Universidade de Beira Interior )
+* Bruno Degardin ( Universidade de Beira Interior )
+* João Brito ( DeepNeuronic )
 
-# Contact 
+# Contact
 
 Write us at: contactnewinml (at) gmail.com
 
