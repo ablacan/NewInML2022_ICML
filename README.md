@@ -70,11 +70,11 @@ Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 
 # Important Dates (to be confirmed)
 
-Paper submission deadline has been set to May 1, 2022 AoE.
+Paper submission deadline has been set to May 15, 2022 AoE.
 
-* May 1, 2022 (Anywhere on Earth): Paper submission deadline
-* June 6, 2022 (Anywhere on Earth): Author notification of acceptance
-* July 18, 2022: Workshop day with best selected abstracts presentations
+* May 15, 2022 (Anywhere on Earth): Paper submission deadline
+* June 20, 2022 (Anywhere on Earth): Author notification of acceptance
+* July 17-18, 2022: Workshop session with best selected abstracts presentations
 
 # Program
 
@@ -125,6 +125,7 @@ Friday July 18, 2022
 * Amel Sellami ( InstaDeep/ENSI )
 * Oishi Deb ( DeepMind Scholar 20/21, previously Rolls-Royce )
 * Mozhgan Saeidi ( Vector Institute )
+* Hoa Nguyen Thi Thanh ( Institut Pasteur )
 * Joao Neves ( Universidade de Beira Interior )
 * Bruno Degardin ( Universidade de Beira Interior )
 * João Brito ( DeepNeuronic )
