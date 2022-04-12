@@ -4,7 +4,7 @@
 
 Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
 
-This year, we are hosting again the New in ML workshop, co-locating with [ICML 2022](https://icml.cc/). We are targeting anyone who has not published a paper at a top conference yet (e.g. ICML, NeurIPS). We invited top researchers to review your work and share their experience with you. The best papers will get oral presentations and awards!
+This year, we are hosting again the New in ML workshop, co-locating with [ICML 2022](https://icml.cc/). This workshop is intended for anyone who has not published a paper at a top conference yet (e.g. ICML, NeurIPS). We invited top researchers to review your work and share their experience with you. The best papers will get oral presentations and awards!
 
 <p align="center">
   <img src="imgs/newinml_fig_topics.jpg" width="250" />
