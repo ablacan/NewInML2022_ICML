@@ -25,18 +25,14 @@ Within quota limits, the authors of the best accepted papers may be receiving ti
 
 # Registration
 
-It is a requirement to register for the [ICML 2022 conference](https://icml.cc/) in order to attend the workshops, socials and anything connected to the ICML Conference platform, **including** this workshop.
-
-Once your ICML 2022 registration is active, it is not required to additionally register for **this workshop** in order to attend. However, we would like to have an estimate of the number of attendees and their background. If you are interested in attending the New In ML workshop at ICML 2022, **please register** with this link (not available yet).
-
-If you want to join the NewInML community, please leave your email address here: link not available yet
-
+It is a **requirement** to register for the [ICML 2022 conference](https://icml.cc/) in order to attend the workshops, socials and anything connected to the ICML Conference platform, **including** this workshop.
+In addition, we would like to have an estimate of the number of attendees and their background. Please fill out the [registration form](https://forms.gle/ajda5xPw7RfdjKnw6) intended for this purpose.
 
 # Call For Extended Abstracts
 
 This year, we initiate a call for extended abstracts (3 content pages excluding references and additional material). This year's NewInML session further targets newcomers to the ML community, seeking writing practice and feedback to have the possibility to share their work at top conferences later on. To this aim, we are encouraging abstracts submissions and participations to our "Writing support" presentation at the workshop. It will be followed by a discussion with the authors for more tailored feedback and advice on their submitted abstracts. Therefore, this consists of a writing exercise though we also highly value promising works and novelties on subjects covered in the ICML main conference. The best selected abstracts authors will have the opportunity to give a short presentation of their work and win an award.
 
-All topics related to machine learning are welcome. They include but are not limited to:
+All topics related to machine learning are welcome. They include (but are not limited to):
 - Computer Vision
 - Natural Language Processing
 - Graph Neural Networks
@@ -63,6 +59,7 @@ To practice writing good ICML papers, authors are **requested** to submit papers
 
 
 Paper submission is through OpenReview platform: [Submit my paper](https://openreview.net/group?id=ICML.cc/2022/Workshop/NewInML)
+Don't forget to fill out the registration form: [Registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
 
 Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 
