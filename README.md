@@ -13,7 +13,7 @@ This year, we are hosting again the New in ML workshop, co-locating with [ICML 2
 Our biggest goal is to help you publish papers at the next ICML conference, and generally provide you with the guidance you need to contribute to ML research fully and effectively!
 
 
-Within quota limits, the authors of the best accepted papers may be receiving tickets to ICML 2022, to be attributed according to merit and need.
+Within quota limits, the authors of the best accepted papers may be receiving tickets to ICML 2022, to be attributed according to merit and need. In addition, we should be able to provide **financial help** for travel/accommodation/registration expanses and fees.
 
 # Past editions
 
@@ -66,15 +66,16 @@ Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 
 # Important Dates
 
-Paper submission deadline has been set to May 15, 2022 AoE.
+**UPDATE** Paper submission deadline has been pushed to May 29, 2022 AoE.
 
-* May 15, 2022 (Anywhere on Earth): Paper submission deadline
-* June 20, 2022 (Anywhere on Earth): Author notification of acceptance
+* <s> May 15, 2022 (Anywhere on Earth): Paper submission deadline</s>
+* May 29, 2022 (Anywhere on Earth): Paper submission deadline
+* June 21, 2022 (Anywhere on Earth): Author notification of acceptance
 * July 17-18, 2022: Workshop session with best selected abstracts presentations
 
 # Program
 
-This will be a one-day **on site** event in Baltimore, USA.
+This will be a one-day **hybrid on site/online** event in Baltimore, USA.
 
 <p align="center">
   <img src="imgs/baltimore_visitusa.jpeg" width="550" />
@@ -88,14 +89,14 @@ Friday July 18, 2022
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |09:00 - 09:05| **Opening address** |
-|09:05 - 09:50| **Invited Talk**  How to communicate your results |
-|09:50 - 10:35| **Invited talk** Collaborations with ML researchers |
+|09:05 - 09:50| **Invited Talk**  How to communicate your results - Andrew Fitzgibbon (Graphcore)|
+|09:50 - 10:35| **Invited talk** Collaborations with ML researchers - Rosanne Liu (ML Collective, Google Brain)|
 |10:35 - 10:50| Break |
-|10:50 - 11:35| **Invited Talk** Coding best practices |
+|10:50 - 11:35| **Invited Talk** Coding best practices - Jill Jênn Vie (Inria)|
 |11:35 - 12:10| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
 |12:10 - 12:20| **Best extended abstract award** |
 |12:20 - 14:30| Lunch Break |
-|14:30 - 15:30| **Invited talk** Writing support interactive presentation |
+|14:30 - 15:30| **Invited talk** Writing support interactive presentation - Reka Mihalka (ETH Zurich)|
 |15:30 - 15:50| Writing support discussion + mentoring session |
 |15:50 - 16:00| Closing remarks |
 
