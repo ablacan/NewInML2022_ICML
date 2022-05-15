@@ -71,7 +71,7 @@ Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 
 # Important Dates
 
-**UPDATE** Paper submission deadline has been pushed to May 29, 2022 AoE.
+**UPDATE** Paper submission deadline has been extended to May 29, 2022 AoE.
 
 * <s> May 15, 2022 (Anywhere on Earth): Paper submission deadline</s>
 * May 29, 2022 (Anywhere on Earth): Paper submission deadline
