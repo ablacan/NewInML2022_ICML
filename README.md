@@ -1,5 +1,9 @@
 # New in ML workshop at ICML 2022
 
+## Update: the call for abstracts deadline is extended to May 29!
+* [Registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
+* [Submit my paper](https://openreview.net/group?id=ICML.cc/2022/Workshop/NewInML)
+
 # Our Mission
 
 Is this your first time to a top conference? Have you ever wanted your own work recognized by this huge and active community? Do you encounter difficulties in polishing your ideas, experiments, paper writing, etc? Then, this session is exactly for you!
@@ -26,7 +30,7 @@ Within quota limits, the authors of the best accepted papers may be receiving ti
 # Registration
 
 It is a **requirement** to register for the [ICML 2022 conference](https://icml.cc/) in order to attend the workshops, socials and anything connected to the ICML Conference platform, **including** this workshop.
-In addition, we would like to have an estimate of the number of attendees and their background. Please fill out the [registration form](https://forms.gle/ajda5xPw7RfdjKnw6) intended for this purpose.
+In addition, we would like to have an estimate of the number of attendees and their background. **Please fill out the [registration form](https://forms.gle/ajda5xPw7RfdjKnw6) intended for this purpose.**
 
 # Call For Extended Abstracts
 
@@ -59,6 +63,7 @@ To practice writing good ICML papers, authors are **requested** to submit papers
 
 
 Paper submission is through OpenReview platform: [Submit my paper](https://openreview.net/group?id=ICML.cc/2022/Workshop/NewInML)
+
 Don't forget to fill out the registration form: [Registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
 
 Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
