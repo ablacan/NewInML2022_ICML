@@ -151,9 +151,9 @@ Friday July 18, 2022
 * Jennifer Williams (Carnegie Mellon University)
 
 # Sponsors
-<img src="imgs/4p_logo.png" width="100" />   [4Paradigm](https://en.4paradigm.com/index.html)
+<img src="imgs/4p_logo.png" width="200" />   [4Paradigm](https://en.4paradigm.com/index.html)
 
-<img src="imgs/chalearn_logo.png" width="100" />  [ChaLearn](http://www.chalearn.org/)
+<img src="imgs/chalearn_logo.png" width="200" />  [ChaLearn](http://www.chalearn.org/)
 
 # Contact
 
