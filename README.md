@@ -132,7 +132,9 @@ Friday July 18, 2022
 * Ying-Jung Deweese (Descartes Labs)
 * Yan Gao (UTHSC)
 * Xiaodan Hu (UIUC)
+* Nicholas Monath (Google)
 * Naila Murray (Meta AI Research)
+* Ankita Naik (University of Massachusetts Amherst)
 * Joao Neves (Universidade de Beira Interior)
 * Hoa Nguyen Thi Thanh (Institut Pasteur)
 * Shilpa Pandey (Adani Institute of Infrastructure Engineering)
@@ -148,6 +150,9 @@ Friday July 18, 2022
 * Jonathan Uesato (Google/DeepMind)
 * Jennifer Williams (Carnegie Mellon University)
 
+# Sponsors
+<img src="imgs/4p_logo.png" width="100" />  [4Paradigm](https://en.4paradigm.com/index.html)
+<img src="imgs/chalearn_logo.png" width="100" /> [ChaLearn](http://www.chalearn.org/)
 
 # Contact
 
