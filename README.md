@@ -53,7 +53,7 @@ To practice writing good ICML papers, authors are **requested** to submit papers
 
 Paper submission is through OpenReview platform: [Submit my paper](https://openreview.net/group?id=ICML.cc/2022/Workshop/NewInML)
 
-**Be careful:** Account confirmation can take up to 48 hours on OpenReview platform. Make sure to sign up a few days ahead before deadline.
+**Be careful:** Account confirmation can take up to 12 hours on OpenReview platform. Make sure to sign up a few days ahead before deadline.
 
 Don't forget to fill out the registration form: [Registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
 
