@@ -7,11 +7,7 @@
 ## Leading organizers
 
 <p align="center">
-  <img src="imgs/al_banner.PNG" width="850" />
-</p>
-
-<p align="center">
-  <img src="imgs/mv_banner.PNG" width="850" />
+  <img src="imgs/leading_organizers_banner.PNG" width="850" />
 </p>
 
 * [Alice Lacan](https://www.linkedin.com/in/alice-lacan/)
