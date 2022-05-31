@@ -27,6 +27,7 @@ Rosanne Liu is a research scientist at Google Brain, and co-founder and executiv
   <img src="imgs/JJV_banner.PNG" width="850" />
 </p>
 
-* [Personal website](https://jjv.ie/)
 ### Short bio
 Jill-Jênn Vie is a research scientist at Inria, Soda team, interested in online factorization, deep generative models and educational applications of machine learning. He is teaching deep learning and algorithms, complexity and programming. During his career, he designed and implemented a free software that is used to certify the digital skills of every French citizen (Pix). He also founded a programming summer school for K-12 girls named [Girls Can Code!](https://girlscancode.fr/) running since 2014. He served as general chair of the EDM 2021 conference and he is currently on the editorial board of the Journal of Educational Data Mining.
+
+* [Personal website](https://jjv.ie/)
