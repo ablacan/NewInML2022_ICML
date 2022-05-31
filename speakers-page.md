@@ -1,9 +1,10 @@
 # Workshop Invited Speakers
 
-* [Homepage](./)
+* [Back to homepage](./)
+* [See workshop organization team](./organizers-page.md)
 
 <p align="center">
-  <img src="imgs/AF_banner.PNG" width="750" />
+  <img src="imgs/AF_banner.PNG" width="850" />
 </p>
 
 ### Short bio
@@ -13,7 +14,7 @@ Andrew Fitzgibbon has been closely involved in the delivery of three groundbreak
 
 
 <p align="center">
-  <img src="imgs/RL_banner.PNG" width="750" />
+  <img src="imgs/RL_banner.PNG" width="850" />
 </p>
 
 ### Short bio
@@ -23,7 +24,7 @@ Rosanne Liu is a research scientist at Google Brain, and co-founder and executiv
 
 
 <p align="center">
-  <img src="imgs/JJV_banner.PNG" width="750" />
+  <img src="imgs/JJV_banner.PNG" width="850" />
 </p>
 
 * [Personal website](https://jjv.ie/)

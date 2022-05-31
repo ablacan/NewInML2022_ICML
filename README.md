@@ -1,7 +1,12 @@
 # New in ML workshop at ICML 2022
 
+## Global information
+* [Registration Form](https://forms.gle/ajda5xPw7RfdjKnw6)
+* [Workshop Invited Speakers](./speakers-page.md)
+* [Workshop Organization Team](./organizers-page.md)
+* [ICML 2022 Main Conference](https://icml.cc/)
+
 ## Update: the call for abstracts deadline is extended to May 29!
-* [Registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
 * [Submit my paper](https://openreview.net/group?id=ICML.cc/2022/Workshop/NewInML)
 
 # Our Mission
@@ -105,44 +110,9 @@ Friday July 18, 2022
 (not available yet)
 
 
-# Organizers
+# Organization Team
+[See more information about our organization team](./organizers-page.md)
 
-* Alice Lacan (IBISC/LISN/CNRS Université Paris-Saclay)
-* Mélina Verger (LIP6 Sorbonne Université)
-
-
-# Advisors
-
-* Isabelle Guyon (LISN/CNRS/INRIA Université Paris-Saclay, ChaLearn)
-* Haozhe Sun (LISN/CNRS/INRIA Université Paris-Saclay)
-* Zhen Xu (4Paradigm)
-
-# Reviewers
-* Piyush Bansal (Facebook/ Meta Inc.)
-* João Brito (DeepNeuronic)
-* Wei-Lun Chao (The Ohio State University)
-* Oishi Deb (DeepMind Scholar 20/21, previously Rolls-Royce)
-* Bruno Degardin (Universidade de Beira Interior)
-* Ying-Jung Deweese (Descartes Labs)
-* Yan Gao (UTHSC)
-* Xiaodan Hu (UIUC)
-* Nicholas Monath (Google)
-* Naila Murray (Meta AI Research)
-* Ankita Naik (University of Massachusetts Amherst)
-* Joao Neves (Universidade de Beira Interior)
-* Hoa Nguyen Thi Thanh (Institut Pasteur)
-* Shilpa Pandey (Adani Institute of Infrastructure Engineering)
-* Homa Rashidisabet (University of Illinois at Chicago)
-* Bastian Rieck (Helmholtz Munich)
-* David Ross (Google)
-* Francisco Ruiz (DeepMind)
-* Mozhgan Saeidi (Vector Institute)
-* Amel Sellami (InstaDeep/ENSI)
-* Vishakha Sharma (Roche)
-* Max Simchowitz (MIT)
-* Sahib Singh (Ford Motor Company)
-* Jonathan Uesato (Google/DeepMind)
-* Jennifer Williams (Carnegie Mellon University)
 
 # Sponsors
 <img src="imgs/4p_logo.png" width="200" />   [4Paradigm](https://en.4paradigm.com/index.html)
