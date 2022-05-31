@@ -67,7 +67,7 @@ Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 * <s> May 15, 2022 (Anywhere on Earth): Paper submission deadline</s>
 * May 29, 2022 (Anywhere on Earth): Paper submission deadline
 * June 21, 2022 (Anywhere on Earth): Author notification of acceptance
-* July 17-18, 2022: Workshop session with best selected abstracts presentations
+* July 18, 2022: Workshop session with best selected abstracts presentations
 
 # Program
 
@@ -77,18 +77,19 @@ This will be a one-day **hybrid on site/online** event in Baltimore, USA.
   <img src="imgs/baltimore_visitusa.jpeg" width="550" />
 </p>
 
-Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
+* [Invited speakers](./speakers-page.md)
 
+Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
 
 Friday July 18, 2022
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |09:00 - 09:05| **Opening address** |
-|09:05 - 09:50| **Invited Talk**  How to communicate your results - Andrew Fitzgibbon (Graphcore)|
-|09:50 - 10:35| **Invited talk** Collaborations with ML researchers - Rosanne Liu (ML Collective, Google Brain)|
+|09:05 - 09:50| **Invited Talk**  How to communicate your results - [Andrew Fitzgibbon](https://www.fitzgibbon.ie/) (Graphcore)|
+|09:50 - 10:35| **Invited talk** Collaborations with ML researchers - [Rosanne Liu](https://rosanneliu.com/) (ML Collective, Google Brain)|
 |10:35 - 10:50| Break |
-|10:50 - 11:35| **Invited Talk** Coding best practices - Jill Jênn Vie (Inria)|
+|10:50 - 11:35| **Invited Talk** Coding best practices - [Jill Jênn Vie](https://jjv.ie/) (Inria)|
 |11:35 - 12:10| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
 |12:10 - 12:20| **Best extended abstract award** |
 |12:20 - 14:30| Lunch Break |
