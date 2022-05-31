@@ -2,8 +2,8 @@
 
 ## Global information
 * [Registration Form](https://forms.gle/ajda5xPw7RfdjKnw6)
-* [Workshop Invited Speakers](./speakers-page.md)
-* [Workshop Organization Team](./organizers-page.md)
+* [Invited Speakers](./speakers-page.md)
+* [Organization Team](./organizers-page.md)
 * [ICML 2022 Main Conference](https://icml.cc/)
 
 ## Update: the call for abstracts deadline is extended to May 29!

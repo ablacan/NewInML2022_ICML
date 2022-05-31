@@ -11,7 +11,7 @@
 </p>
 
 * [Alice Lacan](https://www.linkedin.com/in/alice-lacan/)
-* [Mélina Verger](https://www.linkedin.com/in/melinaverger/)
+* [Mélina Verger](https://melinaverger.GitHub.io/)
 
 
 ## Additional organizers
