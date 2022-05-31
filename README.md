@@ -69,6 +69,10 @@ Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 * June 21, 2022 (Anywhere on Earth): Author notification of acceptance
 * July 18, 2022: Workshop session with best selected abstracts presentations
 
+# Invited speakers
+
+[See more information about our invited speakers](./speakers-page.md)
+
 # Program
 
 This will be a one-day **hybrid on site/online** event in Baltimore, USA.
@@ -76,8 +80,6 @@ This will be a one-day **hybrid on site/online** event in Baltimore, USA.
 <p align="center">
   <img src="imgs/baltimore_visitusa.jpeg" width="550" />
 </p>
-
-* [Invited speakers](./speakers-page.md)
 
 Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
 
