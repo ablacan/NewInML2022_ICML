@@ -20,14 +20,14 @@
   <img src="imgs/additional_organizers.PNG" width="850" />
 </p>
 
-* Oishi Deb
+* [Oishi Deb](https://twitter.com/DebOishi)
 * Kushal Dev
-* Ying-Jung Deweese
+* [Ying-Jung Deweese](https://www.linkedin.com/in/ying-jung-deweese/)
 * [Vasco Lopez](https://www.linkedin.com/in/vasco-lopes/)
 * [Umar Masud](https://umar07.github.io/)
 * [Hoa Nguyen](https://www.linkedin.com/in/hoa-nguyen-95a127104)
 * [Vitor Manuel Diniz Pereira](https://scholar.google.com/citations?user=aF-fuJgAAAAJ&hl=en)
-* Mozhgan Saeidi
+* [Mozhgan Saeidi](https://linkedin.com/in/mojgansaeidi)
 * Amel Sellami
 
 ## Advisors
