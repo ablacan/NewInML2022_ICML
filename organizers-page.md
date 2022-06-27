@@ -28,7 +28,7 @@
 * [Hoa Nguyen](https://www.linkedin.com/in/hoa-nguyen-95a127104)
 * [Vitor Manuel Diniz Pereira](https://scholar.google.com/citations?user=aF-fuJgAAAAJ&hl=en)
 * [Mozhgan Saeidi](https://linkedin.com/in/mojgansaeidi)
-* Amel Sellami
+* [Amel Sellami](https://developers.google.com/community/experts/directory/profile/profile-amel-sellami)
 
 ## Advisors
 * Isabelle Guyon (LISN/CNRS/INRIA Université Paris-Saclay, ChaLearn)

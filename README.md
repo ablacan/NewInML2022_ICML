@@ -88,7 +88,7 @@ This will be a one-day **hybrid on site/online** event in Baltimore, USA.
 
 Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
 
-Friday July 18, 2022
+Monday July 18, 2022
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
