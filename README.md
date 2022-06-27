@@ -93,16 +93,18 @@ Monday July 18, 2022 - Baltimore Convention Center, Room 301 - 303
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |09:00 - 09:05| **Opening address** |
-|09:05 - 09:55| **Invited Talk**  How to communicate your results - [Andrew Fitzgibbon](https://www.fitzgibbon.ie/) (Graphcore)|
-|09:55 - 10:45| **Invited talk** Collaborations with ML researchers - [Rosanne Liu](https://rosanneliu.com/) (ML Collective, Google Brain)|
+|09:05 - 09:55| **Invited Talk**  How to communicate your results - [Andrew Fitzgibbon](https://www.fitzgibbon.ie/) (Graphcore) |
+|09:55 - 10:45| **Invited talk** Collaborations with ML researchers - [Rosanne Liu](https://rosanneliu.com/) (ML Collective, Google Brain) |
 |10:45 - 11:15| Break |
-|11:15 - 12:05| **Invited Talk** Coding best practices - [Jill Jênn Vie](https://jjv.ie/) (Inria)|
-|12:05 - 13:05| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
+|11:15 - 12:05| **Invited Talk** Coding best practices - [Jill Jênn Vie](https://jjv.ie/) (Inria) |
+|12:05 - 13:05| **Best abstracts presentations** (5 min + 5 min Q&A for each paper) |
 |13:05 - 13:15| **Best extended abstract award** |
 |13:15 - 15:00| Lunch Break |
-|15:00 - 16:00| **Invited talk** Writing support interactive presentation - Reka Mihalka (ETH Zurich)|
+|15:00 - 16:00| **Invited talk** Writing support interactive presentation - Reka Mihalka (ETH Zurich) |
 |16:00 - 16:05| Closing remarks |
+
 You are invited to attend the joint poster session hosted by WomenInML and LatinXAI from 16:30 to 17:00 (Hall G).
+
 
 # Accepted extended abstracts
 
