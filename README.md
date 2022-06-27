@@ -34,7 +34,7 @@ Within quota limits, the authors of the best accepted papers may be receiving ti
 
 # Registration
 
-Though labeled as an affinity workshop, this workshop is **open to everyone**. It is a **requirement** to register for the [ICML 2022 conference](https://icml.cc/) in order to attend the workshops, socials and anything connected to the ICML Conference platform, **including** this workshop.
+Though labeled as an affinity workshop, this workshop is **open to everyone**. It is a **requirement** to register for the [ICML 2022 conference](https://icml.cc/) in order to attend the workshops, socials and anything connected to the ICML Conference platform, **including** this workshop. **Being registered for any component of the conference (tutorials, conference sessions, workshops, virtual only pass) allows you to attend any affinity events, including our workshop.**
 In addition, we would like to have an estimate of the number of attendees and their background. **Please fill out the [registration form](https://forms.gle/ajda5xPw7RfdjKnw6) intended for this purpose.**
 
 # Call For Extended Abstracts
@@ -70,8 +70,8 @@ Contact us at contactnewinml (at) gmail.com if you encounter technical issues.
 **UPDATE** Paper submission deadline has been extended to May 29, 2022 AoE.
 
 * <s> May 15, 2022 (Anywhere on Earth): Paper submission deadline</s>
-* May 29, 2022 (Anywhere on Earth): Paper submission deadline
-* June 21, 2022 (Anywhere on Earth): Author notification of acceptance
+* <s> May 29, 2022 (Anywhere on Earth): Paper submission deadline</s>
+* <s> June 21, 2022 (Anywhere on Earth): Author notification of acceptance</s>
 * July 18, 2022: Workshop session with best selected abstracts presentations
 
 # Invited speakers
@@ -88,26 +88,35 @@ This will be a one-day **hybrid on site/online** event in Baltimore, USA.
 
 Program (time zone in Baltimore, Eastern Standard Time, EST, UTC−5 ):
 
-Monday July 18, 2022
+Monday July 18, 2022 - Baltimore Convention Center, Room 301 - 303
 
 |**Time**  | **Event**|
 |-|--------------------------------------------------|
 |09:00 - 09:05| **Opening address** |
-|09:05 - 09:50| **Invited Talk**  How to communicate your results - [Andrew Fitzgibbon](https://www.fitzgibbon.ie/) (Graphcore)|
-|09:50 - 10:35| **Invited talk** Collaborations with ML researchers - [Rosanne Liu](https://rosanneliu.com/) (ML Collective, Google Brain)|
-|10:35 - 10:50| Break |
-|10:50 - 11:35| **Invited Talk** Coding best practices - [Jill Jênn Vie](https://jjv.ie/) (Inria)|
-|11:35 - 12:10| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
-|12:10 - 12:20| **Best extended abstract award** |
-|12:20 - 14:30| Lunch Break |
-|14:30 - 15:30| **Invited talk** Writing support interactive presentation - Reka Mihalka (ETH Zurich)|
-|15:30 - 15:50| Writing support discussion + mentoring session |
-|15:50 - 16:00| Closing remarks |
-
+|09:05 - 09:55| **Invited Talk**  How to communicate your results - [Andrew Fitzgibbon](https://www.fitzgibbon.ie/) (Graphcore)|
+|09:55 - 10:45| **Invited talk** Collaborations with ML researchers - [Rosanne Liu](https://rosanneliu.com/) (ML Collective, Google Brain)|
+|10:45 - 11:15| Break |
+|11:15 - 12:05| **Invited Talk** Coding best practices - [Jill Jênn Vie](https://jjv.ie/) (Inria)|
+|12:05 - 13:05| **Best abstracts presentations** (5 min + 5 min questions for each paper) |
+|13:05 - 13:15| **Best extended abstract award** |
+|13:15 - 15:00| Lunch Break |
+|15:00 - 16:00| **Invited talk** Writing support interactive presentation - Reka Mihalka (ETH Zurich)|
+|16:00 - 16:05| Closing remarks |
+You are invited to attend the joint poster session hosted by WomenInML and LatinXAI from 16:30 to 17:00 (Hall G).
 
 # Accepted extended abstracts
 
-(not available yet)
+* *A Compact Transformer-based Classifier with Selected Hybrid Features from Different Patch Sequences for Image Classification*, Luna Zhang
+
+* *An Efficient Modern Baseline for FloodNet VQA*, Aditya Kane, Sahil Khose
+
+* *FedControl: When Control Theory Meets Federated Learning*, Adnan BEN MANSOUR, Gaia Carenini, Alexandre Duplessis, David Naccache
+
+* *Generating Synthetic Population*, Bhavesh Neekhra, Kshitij Kapoor, Debayan Gupta
+
+* *Light Weight Character and Shape Recognition for Autonomous Drones*, Neetigya Poddar, Shruti Praveen Jain
+
+* *Test-Time Adaptation with Principal Component Analysis*, Thomas Cordier, Victor Bouvier, Gilles Hénaff, Céline Hudelot
 
 
 # Organization Team
