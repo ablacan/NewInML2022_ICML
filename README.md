@@ -1,5 +1,9 @@
 # New in ML workshop at ICML 2022
 
+<p align="center">
+  <img src="imgs/icml_logo" width="150" />
+</p>
+
 ## Global information
 * [Registration Form](https://forms.gle/ajda5xPw7RfdjKnw6)
 * [Invited Speakers](./speakers-page.md)
