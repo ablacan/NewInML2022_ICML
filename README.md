@@ -1,7 +1,7 @@
 # New in ML workshop at ICML 2022
 
 <p align="center">
-  <img src="imgs/icml_logo" width="150" />
+  <img src="imgs/icml_logo.png" width="150" />
 </p>
 
 ## Global information
