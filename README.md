@@ -6,8 +6,10 @@
 * [Organization Team](./organizers-page.md)
 * [ICML 2022 Main Conference](https://icml.cc/)
 
-## Update: the call for abstracts deadline is extended to May 29!
-* [Submit my paper](https://openreview.net/group?id=ICML.cc/2022/Workshop/NewInML)
+## Registrations: Being registered for any component of the conference (tutorials, conference sessions, workshops, virtual only pass) allows you to attend any affinity events, including our workshop!
+* [Pricing](https://icml.cc/Conferences/2022/Pricing)
+* [Register to ICML](https://icml.cc/Register2)
+* [Fill out the registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
 
 # Our Mission
 
@@ -39,7 +41,7 @@ In addition, we would like to have an estimate of the number of attendees and th
 
 # Call For Extended Abstracts
 
-This year, we initiate a call for extended abstracts (3 content pages excluding references and additional material). This year's NewInML session further targets newcomers to the ML community, seeking writing practice and feedback to have the possibility to share their work at top conferences later on. To this aim, we are encouraging abstracts submissions and participations to our "Writing support" presentation at the workshop. It will be followed by a discussion with the authors for more tailored feedback and advice on their submitted abstracts. Therefore, this consists of a writing exercise though we also highly value promising works and novelties on subjects covered in the ICML main conference. The best selected abstracts authors will have the opportunity to give a short presentation of their work and win an award.
+This year, we initiate a call for extended abstracts (3 content pages excluding references and additional material). This year's NewInML session further targets newcomers to the ML community, seeking writing practice and feedback to have the possibility to share their work at top conferences later on. To this aim, we are encouraging abstracts submissions and participations to our "Writing effectively for ML" interactive session at the workshop. It will be followed by a discussion with the authors for more tailored feedback and advice on their submitted abstracts. Therefore, this consists of a writing exercise though we also highly value promising works and novelties on subjects covered in the ICML main conference. The best selected abstracts authors will have the opportunity to give a short presentation of their work and win an award.
 
 All topics related to machine learning are welcome. They include (but are not limited to):
 - General Machine Learning (active learning, clustering, online learning, ranking, reinforcement learning, supervised, semi- and self-supervised learning, time series analysis, etc.)
@@ -51,7 +53,7 @@ All topics related to machine learning are welcome. They include (but are not li
 - Applications (computational biology, crowdsourcing, healthcare, neuroscience, social good, climate science, etc.)
 
 ## Guidelines to authors
-To practice writing good ICML papers, authors are **requested** to submit papers **respecting** the ICML [format and instructions](https://icml.cc/Conferences/2022/CallForPapers). **All submissions must be in PDF format. Submissions are limited to 3 content pages, including all figures and tables; additional pages containing the ICML paper checklist and references are allowed.** Submitted abstracts **must** be anonymous and respect the ICML format and template. Submissions that do not follow the format will be rejected. We restrict submissions to first authors with no prior accepted publication at ICML/NeurIPS main conferences and which are **not under review or accepted elsewhere**. Papers having been rejected before should be revised before submission to New In ML. We recommend sharing previous reviews with your new reviewers. Submitted papers will be reviewed by expert reviewers in a double-blind manner. Accepted abstracts could expect further coaching and mentorship if both reviewers and authors agree to communicate.
+To practice writing good ICML papers, authors are **requested** to submit papers **respecting** the ICML [format and instructions](https://icml.cc/Conferences/2022/CallForPapers). **All submissions must be in PDF format. Submissions are limited to 3 content pages, including all figures and tables; additional pages containing the ICML paper checklist and references are allowed.** Submitted abstracts **must** be anonymous and respect the ICML format and template. Submissions that do not follow the format will be rejected. We restrict submissions to first authors with no prior accepted publication at ICML main conferences and which are **not under review or accepted elsewhere**. Papers having been rejected before should be revised before submission to New In ML. We recommend sharing previous reviews with your new reviewers. Submitted papers will be reviewed by expert reviewers in a double-blind manner. Accepted abstracts could expect further coaching and mentorship if both reviewers and authors agree to communicate.
 
 ## Workshop submission policy
 <b> This will NOT count as an official ICML publication, the NewInML 2022 workshop does not have a publication proceedings. Abstracts submitted can be revised and enhanced for further submissions, but make sure to check the policy of other conferences if you want to re-submit elsewhere.</b> We allow the submission of abstracts that have been submitted to another workshop in condition that the other workshop does not have a publication proceedings and this does not violate the policy of the other workshop. You are responsible to check the dual-submission policy of the other workshop and decide whether you can re-submit your paper to the NewInML 2022 workshop. Accepted extended abstracts will be listed on the workshop homepage if the authors do not issue an objection. If an accepted paper is also accepted by another workshop, the authors can decide which workshop they want to keep. If you need to withdraw your abstract from the NewInML 2022 workshop, please contact us at contactnewinml (at) gmail.com.
@@ -100,8 +102,9 @@ Monday July 18, 2022 - Baltimore Convention Center, Room 301 - 303
 |12:05 - 13:05| **Best abstracts presentations** (5 min + 5 min Q&A for each paper) |
 |13:05 - 13:15| **Best extended abstract award** |
 |13:15 - 15:00| Lunch Break |
-|15:00 - 16:00| **Invited talk** Writing support interactive presentation - Reka Mihalka (ETH Zurich) |
-|16:00 - 16:05| Closing remarks |
+|15:00 - 16:00| **Invited talk** Writing effectively for ML - Réka Mihálka, Simon Milligan (Language Center of UZH and ETH Zurich) |
+|16:00 - 16:30| **Discussion** - Réka Mihálka, Simon Milligan (Language Center of UZH and ETH Zurich) |
+|16:30 - 16:35| Closing remarks |
 
 You are invited to attend the joint poster session hosted by WomenInML and LatinXAI from 16:30 to 17:00 (Hall G).
 

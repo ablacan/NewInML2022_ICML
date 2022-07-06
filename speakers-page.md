@@ -31,3 +31,15 @@ Rosanne Liu is a research scientist at Google Brain, and co-founder and executiv
 Jill-Jênn Vie is a research scientist at Inria, Soda team, interested in online factorization, deep generative models and educational applications of machine learning. He is teaching deep learning and algorithms, complexity and programming. During his career, he designed and implemented a free software that is used to certify the digital skills of every French citizen (Pix). He also founded a programming summer school for K-12 girls named [Girls Can Code!](https://girlscancode.fr/) running since 2014. He served as general chair of the EDM 2021 conference and he is currently on the editorial board of the Journal of Educational Data Mining.
 
 * [Personal website](https://jjv.ie/)
+
+<p align="center">
+  <img src="imgs/RS_banner.PNG" width="850" />
+</p>
+
+### Short bio - Réka Mihálka
+Réka Mihálka is a scientific writing expert, who is currently teaching at ETH Zurich and the University of Zurich. In her teaching, her primary objective is to help researchers communicate their findings by writing clear, precise, and concise papers. Her research focuses on the didactical aspects of writing instruction: she is experimenting with gamification and autonomous learning to increase engagement. Her current project is to create a scientific writing app tailored to computer scientists.
+
+### Short bio - Simon Milligan
+Dr Simon Milligan has 20 years' experience as an academic language editor in a range of social and natural sciences and is a member of the European Association of Science Editors. He has also taught scientific writing at the Universities of Bern and Zurich and at the ETH in Zurich for over 15 years. He has developed a number of writing courses tailored to the needs of specific fields, including applied mathematics, biomedical engineering, biochemistry, chemistry, climate science, computer science, environmental engineering, evolutionary biology, materials science, mechanical engineering, neuroscience, philosophy, and psychology.
+
+* [Website](https://acalanser.ch/)
