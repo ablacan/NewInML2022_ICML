@@ -10,10 +10,21 @@
 * [Organization Team](./organizers-page.md)
 * [ICML 2022 Main Conference](https://icml.cc/)
 
+## On-site attendance details for July 18, 2022
+* Rooms 301-303, Baltimore Convention Center
+* 8:45 - 9:00 - Welcome
+* 9:00 - Workshop start
+
+## Online attendance details for July 18, 2022
+* Workshop virtual site: [link](https://icml.cc/virtual/2022/affinity-workshop/13480)
+* 9:00 - Workshop start
+* Use the Rocket.Chat for questions (please remain polite and considerate of other attendees or speakers)
+
 ## Registrations: Being registered for any component of the conference (tutorials, conference sessions, workshops, virtual only pass) allows you to attend any affinity events, including our workshop!
 * [Pricing](https://icml.cc/Conferences/2022/Pricing)
 * [Register to ICML](https://icml.cc/Register2)
 * [Fill out the registration form](https://forms.gle/ajda5xPw7RfdjKnw6)
+
 
 # Our Mission
 
