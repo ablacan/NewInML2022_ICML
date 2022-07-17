@@ -63,39 +63,19 @@ In addition, we would like to have an estimate of the number of attendees and th
 
 [See more information about our call for papers](./call-for-papers.md)
 
-# Program
+# Schedule
 
-This will be a one-day **hybrid on site/online** event in Baltimore, USA.
+This will be a one-day **hybrid on site/online** event in Baltimore, USA (Eastern Daylight Time/UTC−4).
 
 <p align="center">
   <img src="imgs/baltimore_visitusa.jpeg" width="550" />
 </p>
 
-Program (Baltimore time zone: Eastern Daylight Time/UTC−4 ):
-
-**Monday July 18, 2022 - Baltimore Convention Center, Room 301 - 303**
-
-|**Time**  | **Event**|
-|-|--------------------------------------------------|
-|09:00 - 09:05| **Opening address** |
-|09:05 - 09:55| **Invited Talk**  How to communicate your results - [Andrew Fitzgibbon](https://www.fitzgibbon.ie/) (Graphcore) |
-|09:55 - 10:45| **Invited talk** Collaborations with ML researchers - [Rosanne Liu](https://rosanneliu.com/) (ML Collective, Google Brain) |
-|10:45 - 11:15| Break |
-|11:15 - 12:05| **Invited Talk** Coding best practices - [Jill Jênn Vie](https://jjv.ie/) (Inria) |
-|12:05 - 13:05| **Best abstracts presentations** (5-min presentations + 5-min Q&A for each paper) |
-|13:05 - 13:15| **Best extended abstract award** |
-|13:15 - 15:00| Lunch Break |
-|15:00 - 16:00| **Invited talk** Writing effectively for ML - Réka Mihálka, Simon Milligan (Language Center of UZH and ETH Zurich) |
-|16:00 - 16:20| **Discussion** - Réka Mihálka, Simon Milligan (Language Center of UZH and ETH Zurich) |
-|16:20 - 16:30| Closing remarks |
-
-You are invited to attend the joint poster session hosted by WomenInML and LatinXAI from 16:30 to 17:00 (Hall G).
-
 <p align="center">
-  <img src="imgs/program.png" width="750" />
+  <img src="imgs/program.png" width="1000" />
 </p>
 
-You can find the program and workshop virtual site on the following [link](https://icml.cc/virtual/2022/affinity-workshop/13480).
+You can find the workshop virtual site with the schedule on the following [link](https://icml.cc/virtual/2022/affinity-workshop/13480).
 
 
 # Accepted extended abstracts
