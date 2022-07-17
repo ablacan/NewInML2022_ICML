@@ -92,6 +92,13 @@ You can find the workshop virtual site with the schedule on the following [link]
 
 * *Test-Time Adaptation with Principal Component Analysis*, Thomas Cordier, Victor Bouvier, Gilles Hénaff, Céline Hudelot
 
+# Data Challenge opportunity: Cross-Domain MetaDL (NeurIPS 2022)
+Here is a quick summary regarding a very interesting data challenge for NewInML folks. More details can be found in this [extended abstract](papers/cross_domain_metadl_data_challenge.pdf) and on the [challenge website](https://metalearning.chalearn.org/).
+
+The new **Cross-Domain MetaDL challenge** is part of the ChaLearn meta-learning series. It has a **special league for New in ML participants (with prizes and certificates)** and a detailed tutorial with no prerequisites (i.e., no previous meta-learning knowledge required). The competition is part of the **NeurIPS'22 program**, and the winners will be invited to co-author the analysis paper with the organizers to appear in PMLR.
+The focus is on "cross-domain" meta-learning, aiming at leveraging experience from previous tasks to solve new tasks efficiently. While our previous challenge addressed within-domain few-shot learning for N-way k-shot tasks (i.e., N class classification problems with k training examples), **this challenge proposes "any-way" and "any-shot" tasks drawn from various domains (healthcare, ecology, biology, manufacturing, and others)**, chosen for their humanitarian and societal impact. Code submissions will be blind-tested on CodaLab, and the winners' code will be open-sourced.
+**Submissions are open between July 01 and August 31, 2022.**
+
 
 # Organization Team
 [See more information about our organization team](./organizers-page.md)
