@@ -2,6 +2,7 @@
 
 * [Back to homepage](./)
 * [See workshop invited speakers](./speakers-page.md)
+* [See workshop call for papers](./call-for-papers.md)
 
 
 ## Leading organizers

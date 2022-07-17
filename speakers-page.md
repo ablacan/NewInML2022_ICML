@@ -2,6 +2,7 @@
 
 * [Back to homepage](./)
 * [See workshop organization team](./organizers-page.md)
+* [See workshop call for papers](./call-for-papers.md)
 
 <p align="center">
   <img src="imgs/AF_banner.PNG" width="850" />
