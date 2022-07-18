@@ -21,6 +21,9 @@
 * 9:00 - Workshop start
 * Use the Rocket.Chat for questions (please remain polite and considerate of other attendees or speakers)
 
+### Interactive afternoon session - Writing effectively for ML
+Here is a Handout with exercises presented by our speakers: [handout](papers\Handout_Writing_Effectively_For_ML.pdf)
+
 ## Registrations: Being registered for any component of the conference (tutorials, conference sessions, workshops, virtual only pass) allows you to attend any affinity events, including our workshop!
 * [Pricing](https://icml.cc/Conferences/2022/Pricing)
 * [Register to ICML](https://icml.cc/Register2)
