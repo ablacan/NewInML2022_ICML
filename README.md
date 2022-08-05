@@ -5,11 +5,15 @@
 </p>
 
 ## Global information
+* [Feedback Form](https://forms.gle/RdUwD653wewHBg24A)
 * [Registration Form](https://forms.gle/ajda5xPw7RfdjKnw6)
 * [Invited Speakers](./speakers-page.md)
 * [Call for papers](./call-for-papers.md)
 * [Organization Team](./organizers-page.md)
 * [ICML 2022 Main Conference](https://icml.cc/)
+
+## Give us your feedback on the workshop!
+[Give my feedback](https://forms.gle/RdUwD653wewHBg24A)
 
 ## On-site attendance details for July 18, 2022
 * Rooms 301-303, Baltimore Convention Center
